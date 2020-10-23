@@ -41,8 +41,9 @@ HDD            | 1 TB 5400 RPM SATA III
 SSD            | SSD de 128 GB M.2 SATA III (x2)
 RAM            | 16 GB 2667 MHz DDR4 (2x8GB)
 Wifi+Bluetooth | Intel AX200 (INT9560)
-Ethernet       | Realtek
-Trackpad       | ELAN
+Ethernet       | Realtek RTL8168/8111 PCI-E Gbit
+Audio          | Realtek ALC255 
+Trackpad       | ELAN 0504
 
 ## Roda ou não roda ?
 

@@ -10,7 +10,7 @@ EFI files to boot Catalina Hackintosh on Acer Nitro 5
 
 # Substituindo o Clover Bootloader
 
-1. Faça download do repositório e extraia o arquivo Zip;
+1. Faça [download do repositório](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-CATALINA-OPENCORE/archive/main.zip) e extraia o arquivo Zip;
 2. Abra a partição EFI do HD/SSD onde seu OSX Catalina está instalado;
 4. Substitua a pasta EFI do seu HD/SSD pela pasta EFI do repositório;
 5. Reinicie o seu Hackintosh e certifique-se de setar o Boot para o SSD/HD onde esta instalado o Catalina;
@@ -26,6 +26,8 @@ Kext para Airport `Itlw` para placa wireless Intel AX200 adicionado. Usar aplica
 </p>
 
 - [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
+
+**Para atualizar OSX *Catalina* para o *BigSur*: [CLIQUE AQUI](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-BigSur)**
 
 ### Especificações do Hardware
 INFO           | ESPECIFICAÇÃO
